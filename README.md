@@ -1,6 +1,10 @@
 # wttd-eventex
 An Event System using Django
 
+[![Build Status](https://travis-ci.org/matheusabr/wttd-eventex.svg?branch=master)](https://travis-ci.org/matheusabr/wttd-eventex)
+
+[![Code Health](https://landscape.io/github/matheusabr/wttd-eventex/master/landscape.svg?style=flat)](https://landscape.io/github/matheusabr/wttd-eventex/master)
+
 ## How to run and contrib?
 
 1. Clone repo
